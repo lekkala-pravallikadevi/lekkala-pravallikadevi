@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lekkala-pravallikadevi
 - 👀 I’m interested in Data analyst and software engineer
-- 🌱 I’m currently learning Data science 
+- 🌱 I’m currently learning Data science in B.tech
 - 💞️ I’m looking to collaborate on github or linkedin
 - 📫 How to reach me through email(lekkalapravallika4@gmail.com)
 - 😄 Pronouns: pravallika(she/her)
