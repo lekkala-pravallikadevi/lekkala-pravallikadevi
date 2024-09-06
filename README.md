@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lekkala-pravallikadevi
 - 👀 I’m interested in Data analyst and software engineer
 - 🌱 I’m currently learning Data science 
-- 💞️ I’m looking to collaborate on github or email or linkedin
+- 💞️ I’m looking to collaborate on github or linkedin
 - 📫 How to reach me through email(lekkalapravallika4@gmail.com)
 - 😄 Pronouns: pravallika(she/her)
 - ⚡ Fun fact: I enjoy to cook and I enjoy to learn new things
